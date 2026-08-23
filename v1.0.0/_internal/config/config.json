@@ -1,0 +1,9 @@
+{
+    "tema": "Dark",
+    "Enviar_Email": false,
+    "Email": "",
+    "Msg_email": "Olá sr(a). [NOME], sua consulta foi agendada para [AGENDAMENTO].",
+    "ativar_transicao_paginas": true,
+    "ECAC": false,
+    "desativar_transicao_paginas": false
+}
